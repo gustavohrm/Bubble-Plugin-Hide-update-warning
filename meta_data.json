@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity",
+        "2": "web scraping"
+    },
+    "data_tracked": false,
+    "description": "This plugin hides the \"We just updated this page...\" warning every time you change something on your app. Use this if you don't want your users to see this warning every time you update your app, but don't want to have a lot of refreshes happening.\n\nIf you want to always keep you app updated, check out this plugin:\nhttps://bubble.io/plugin/auto-refresh---reload-on-update-1746408768825x222941948715204600",
+    "image": "//meta-q.cdn.bubble.io/f1746735365635x333313573622296770/hide-warning.jpg",
+    "license": "open_source",
+    "link": "https://bublet.bubbleapps.io/version-test/docs/hide-update-warning",
+    "name": "Hide update warning",
+    "plugin_instructions": "No action is needed. The plugin adds a script on all your pages automatically.\n\nPlease report any bug or suggestion to:\ngustavohrmotta@gmail.com"
+}
